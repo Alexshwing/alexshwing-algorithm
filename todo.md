@@ -106,6 +106,9 @@
 
 #### [单调栈](https://leetcode.cn/circle/discuss/9oZFK9/)
 
+- 1776 车队 II 2531
+- 2030 含特定字母的最小子序列 2562
+
 #### [二分](https://leetcode.cn/circle/discuss/SqopEo/)
 
 #### [滑动窗口]([https://leetcode.cn/circle/discuss/0viNMK/)
